@@ -1,4 +1,4 @@
-# oosolijonov.github.io
+# osolijonov.github.io
 <html>
 <body>  
 <h1>Otabek Solijonov</h1>
