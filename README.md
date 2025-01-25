@@ -1,5 +1,4 @@
 # oosolijonov.github.io
-<!DOCTYPE html>
 <html>
 <body>  
 <h1>Otabek Solijonov</h1>
